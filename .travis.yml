@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - "node"
+scripts:
+  - npm test
+after_success:
+  - npx codecov
