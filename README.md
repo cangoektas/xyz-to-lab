@@ -1,5 +1,7 @@
 # xyz-to-lab
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cangoektas/xyz-to-lab.svg)](https://greenkeeper.io/)
+
 Converts CIE 1931 XYZ colors to CIE L\*a\*b\*.
 
 <a href="https://travis-ci.com/cangoektas/xyz-to-lab"><img alt="Build status" src="https://img.shields.io/travis/cangoektas/xyz-to-lab.svg?style=flat-square"></a>
